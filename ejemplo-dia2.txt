@@ -1,0 +1,2 @@
+Este es mi ejercicio del día 2.
+Aprendí Git y GitHub con ejemplo reales.
